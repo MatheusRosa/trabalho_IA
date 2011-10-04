@@ -1,3 +1,7 @@
+#Main and discover centroid functions 
+#Matheus da Rosa
+#22/09/2011
+
 import fuzzy_input
 import fuzzy_output
 

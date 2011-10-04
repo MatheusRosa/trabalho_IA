@@ -1,3 +1,6 @@
+#Output functions for degrees of truth
+#Matheus da Rosa
+#22/09/2011
 
 def input_small(val):
     if val<100:
