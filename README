@@ -1,1 +1,6 @@
-Application with fuzzy logic for artificial intelligence discipline.
+Python based application which calculates the centroid of a xxx using fuzzy logic.
+Developed as part of PUCRS(http://www.pucrs.br/portal/?p=en) Artificial Intelligence's class. 
+
+References:
+http://en.wikipedia.org/wiki/Centroid
+http://en.wikipedia.org/wiki/Fuzzy_logic
